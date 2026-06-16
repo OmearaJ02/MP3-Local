@@ -1,0 +1,21 @@
+{
+  "name": "mp3-player",
+  "version": "1.0.0",
+  "description": "MP3-Player that searches local files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "mp3"
+  ],
+  "author": "James",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^42.4.1"
+  }
+}
