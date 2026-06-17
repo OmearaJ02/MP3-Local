@@ -1,0 +1,5 @@
+- Home Page, Give it more of a structure, let people pick where to start
+- Make it read local files instead of online ones
+- Learn how to make multiple pages of an electron app
+- See if you can filter it somehow, can you get only songs written by X artist
+- Host it(?)
